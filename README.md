@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java
 - 💞️ Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber...
 - 📫 How to reach me : kenanagca76@gmail.com
-- 
+- ![Github stats 2](https://github-readme-stats.vercel.app/api?kenanagca76=kenanagca76&show_icons=true&theme=radical)
 
 <!---
 kenanagca76/kenanagca76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
